@@ -1,4 +1,4 @@
-# 🌼 Çiç.ek Toplayalım
+# 🌼 Çiçek Toplayalım
 
 **Geliştirici:** Canberk Mansuroğlu  
 **Platform:** Android (AR Destekli)  
@@ -8,7 +8,7 @@
 
 ## 🎯 Proje Amacı
 
-"Çiç.ek Toplayalım", çocuklara **sayı sayma**, **düzine** ve **deste** kavramlarını eğlenceli bir şekilde öğretmeyi amaçlayan bir artırılmış gerçeklik (AR) oyunudur. Oyun, fiziksel dünya ile dijital etkileşimi birleştirerek öğrenmeyi daha etkili ve kalıcı hâle getirir.
+"Çiçek Toplayalım", çocuklara **sayı sayma**, **düzine** ve **deste** kavramlarını eğlenceli bir şekilde öğretmeyi amaçlayan bir artırılmış gerçeklik (AR) oyunudur. Oyun, fiziksel dünya ile dijital etkileşimi birleştirerek öğrenmeyi daha etkili ve kalıcı hâle getirir.
 
 ## 🧠 Hedef Kitle
 
